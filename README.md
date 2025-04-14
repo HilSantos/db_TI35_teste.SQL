@@ -1,4 +1,4 @@
-# db_TI35_teste.sql
+# db_TI35_teste.SQL
 Teste do Banco de Dados Alunos
 
 -- phpMyAdmin SQL Dump
